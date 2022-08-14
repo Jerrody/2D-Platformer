@@ -86,7 +86,7 @@ namespace Game.Characters.Player.UI
 
             _playerCamera.gameObject.SetActive(hud.gameObject.activeSelf);
 
-            Cursor.visible = !Cursor.visible;
+            Cursor.visible = escape.gameObject.activeSelf;
             _playerController.EnableMovement(hud.gameObject.activeSelf);
         }
 
