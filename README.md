@@ -4,4 +4,4 @@
 
 This is my simple pet project, you're free to use it :)
 
-https://user-images.githubusercontent.com/68968657/184536647-af5b5578-4af6-465c-af19-33c486602f5b.mp4
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68968657/184536806-5204fea4-5c0c-4471-b215-ba940dcf581c.gif)
